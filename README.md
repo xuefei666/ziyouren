@@ -7,3 +7,4 @@
 
 ## 自由人官网：[https://ziyouren.net]()
 ## 白嫖优惠码：ziyouren.net
+![photo_2025-02-18_20-35-09](https://github.com/user-attachments/assets/2fd2a99d-25a2-4d0e-83d3-46fe6139514a)
