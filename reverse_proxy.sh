@@ -9,8 +9,8 @@ fi
 # 创建配置文件
 cat > /etc/nginx/sites-available/ip_proxy <<EOF
 server {
-    listen 80 default_server;
-    listen [::]:80 default_server;
+    listen 8550 default_server;
+    listen [::]:8550 default_server;
     server_name _;
 
     location / {
